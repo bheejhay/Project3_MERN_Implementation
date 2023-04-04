@@ -20,8 +20,9 @@
 
  ![installation of mongoDB](./Images/mongodb_installed_successfully.png "mongoDB installed & model folder created")
 
- #### Step 4: 
-
+ #### Step 4: MongoDb configuration using the mlab. this provides mongoDB database as a service solution. i signed up on the mlab and created a cluster which after i created a database for my project.
+##### After the connection string have been configured we then test our project by running the cmd "node index.js" which would test if the database is connected succsessfully.
+ ![database connected successfully](./Images/Database_connected_succesfully.png "Database running ")
 
 
  ![](./Images/ "")
